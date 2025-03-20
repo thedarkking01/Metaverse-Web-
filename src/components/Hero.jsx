@@ -151,14 +151,14 @@ useGSAP(
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-                Enter the Metagame Layer <br /> Unleash the Play Economy
+                Enter the Metaverse Layer <br /> Unleash the Rich Economy
             </p>
 
             <Button
                 id="watch-trailer"
                 title="Watch trailer"
                 leftIcon={<TiLocationArrow />}
-                containerClass="bg-blue-300 flex-center gap-1"
+                containerClass="bg-blue-500 flex-center gap-1"
             />
             </div>
         </div>
