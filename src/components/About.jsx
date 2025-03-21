@@ -1,8 +1,7 @@
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/all";
-
-// import AnimatedTitle from "./AnimatedTitle";
+import AnimatedTitle from "./AnimatedTitle";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -33,10 +32,10 @@ const About = () => {
             Welcome to Project X
             </p>
 
-            {/* <AnimatedTitle
+            <AnimatedTitle
             title="Disc<b>o</b>ver the world's <br /> largest shared <b>a</b>dventure"
             containerClass="mt-5 !text-black text-center"
-            /> */}
+            />
 
             <div className="about-subtext">
             <p>The Game of Games begins—your life, now an epic MMORPG</p>
