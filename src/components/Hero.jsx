@@ -158,7 +158,7 @@ useGSAP(
                 id="watch-trailer"
                 title="Watch trailer"
                 leftIcon={<TiLocationArrow />}
-                containerClass="bg-blue-500 flex-center gap-1"
+                containerClass="bg-[#94a3b8] flex-center gap-1"
             />
             </div>
         </div>
