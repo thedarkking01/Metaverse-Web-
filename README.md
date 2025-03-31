@@ -6,7 +6,7 @@ This project was built to showcase the potential of combining React for componen
 
 ---
 
-### WEBSITE DIAGRAM
+### 👽 WEBSITE DIAGRAM
 ![Website Diagram](https://github.com/user-attachments/assets/958bba47-ce0b-4db2-920e-4750380d790d)
 
 
