@@ -92,7 +92,7 @@ This project is open source and available under the [Apache License 2.0](https:/
 
 ---
 
-###🙏 Acknowledgments
+### 🙏 Acknowledgments
 
 - **React** for building the framework that powers the website.
 - **GSAP** for providing smooth animations and transitions.
