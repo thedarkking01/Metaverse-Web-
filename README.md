@@ -6,8 +6,10 @@ This project was built to showcase the potential of combining React for componen
 
 ---
 
-### GIT DIAGRAM
-![Git Diagram](diagram.png)
+### WEBSITE DIAGRAM
+![Website Diagram](../metaverse%20web//public/img/diagram.png)
+
+---
 
 ### 🔗 Live Demo
 You can view the live version of the project here:
