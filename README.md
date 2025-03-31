@@ -82,7 +82,7 @@ Make sure you have the following tools installed:
 
 ### License
 
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is open source and available under the [Apache License 2.0](https://github.com/thedarkking01/Metaverse-Web-/blob/main/LICENSE).
 
 ---
 
