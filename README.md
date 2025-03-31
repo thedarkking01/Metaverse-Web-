@@ -7,7 +7,8 @@ This project was built to showcase the potential of combining React for componen
 ---
 
 ### WEBSITE DIAGRAM
-![Website Diagram](../metaverse%20web//public/img/diagram.png)
+![Website Diagram](https://github.com/user-attachments/assets/958bba47-ce0b-4db2-920e-4750380d790d)
+
 
 ---
 
